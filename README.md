@@ -1,16 +1,27 @@
 <div align="center">
 
-# fernata
+# Mohamed Ahmed Mohamed Ali
+### محمد أحمد محمد علي · `fernata`
 
-**I build security tools, developer tools and games — Arabic-first, open source, shipped for Windows, macOS and Linux.**
+**AI engineer & security builder — I make AI agents safer, and I build the tools, apps and games around them.**
 
-أبني أدوات أمان، وأدوات للمطوّرين، وألعاب — بالعربي أولًا، ومفتوحة المصدر، وشغّالة على كل الأنظمة.
+مهندس ذكاء اصطناعي وأمن: بخلّي وكلاء الذكاء الاصطناعي أأمن، وببني حواليهم أدوات وتطبيقات وألعاب — بالعربي أولًا، ومفتوحة المصدر.
 
-[![Nitaq](https://img.shields.io/badge/Nitaq-AI%20agent%20security-c62828?style=flat-square)](https://github.com/fernata-dev/Nitaq)
-[![Website](https://img.shields.io/badge/byhamo.bond-live-0f0f0f?style=flat-square)](https://byhamo.bond)
-[![Telegram](https://img.shields.io/badge/Telegram-@fernatadev-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fernatadev)
+[![Website](https://img.shields.io/badge/mohamed.my.id-portfolio-0f0f0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed.my.id)
+[![Telegram](https://img.shields.io/badge/Telegram-@udicu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/udicu)
+[![Nitaq](https://img.shields.io/badge/Nitaq-ISEF%202026-c62828?style=for-the-badge)](https://github.com/fernata-dev/Nitaq)
 
 </div>
+
+---
+
+## 👋 About me
+
+- 🛡️ **AI security** — I research how AI agents get hijacked by hidden instructions (prompt injection) and build defenses that work in Arabic, Arabizi and English. My project **Nitaq** advanced to the **national round of ISEF 2026**.
+- 🧠 **Prompt engineering & LLMs** — I know how language models think and how to steer them precisely with text: system prompts, agent instructions, tool calling, MCP, evaluation, and getting reliable output from Claude, Gemini and GPT models.
+- 🛠️ **Full-stack builder** — from the idea to a shipped product: CLI and TUI tools, cross-platform desktop apps (Windows · macOS · Linux) with installers and auto-built releases, websites, and 3D browser games.
+- 🌍 **Arabic-first** — RTL and bidirectional text done right, Egyptian Arabic and Arabizi support, bilingual interfaces.
+- 🎓 **10 certifications** in AI and software, from **Meta**, **LinkedIn Learning**, the **One Million AI Experts** program and more.
 
 ---
 
@@ -52,7 +63,7 @@ Base64. It judges every tool call by *where it goes and what it reads*, not by t
   <img src="https://skillicons.dev/icons?i=python,go,ts,js,html,css,threejs,nodejs,docker,linux,bash,powershell,git,githubactions,cloudflare&perline=15" alt="Python, Go, TypeScript, JavaScript, HTML, CSS, three.js, Node.js, Docker, Linux, Bash, PowerShell, Git, GitHub Actions, Cloudflare">
 </p>
 
-**Areas:** AI agent security · prompt injection · Model Context Protocol (MCP) · CLI & TUI tools · cross-platform desktop apps · Arabic / RTL & bidi · browser games (WebGL) · CI/CD and releases · static sites on Cloudflare Pages & GitHub Pages.
+**Areas:** prompt engineering · LLM agents · AI agent security · prompt injection · Model Context Protocol (MCP) · CLI & TUI tools · cross-platform desktop apps · Arabic / RTL & bidi · browser games (WebGL) · CI/CD and releases · static sites on Cloudflare Pages & GitHub Pages.
 
 ---
 
